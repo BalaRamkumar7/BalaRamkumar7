@@ -1,7 +1,26 @@
-- 👋 Hi, I’m Bala Ramkumar
-- 👀 I’m interested in learning about Data Science and Analytics, more specifically about Python, Machine Learning, and Data Visualization
-- 🏅 Some of my hobbies inclue watching and playing sports of all kinds, listening to all genres of music, and studying geography. Ask me anything about it!
-- 🌱 I’m currently learning at the University of Connecticut as a Data Science and Engineering student
-- 💞️ I’m looking to collaborate on coding projects that help me grow my programming and analytical skills
-- 📫 How to reach me: email bala.ramkumar270@gmail.com
+👋 Hi, I’m Bala Ramkumar!
 
+I’m a first-year Data Science and Engineering student at the University of Connecticut with a strong interest in Statistics and Data Science. I enjoy working at the intersection of programming, data analysis, and real-world problem solving, and I enjoy exploring data-driven questions related to sports, music, and geography.
+
+### 🔍 Academic & Technical Interests
+- Data Science & Statistical Analysis  
+- Python programming  
+- Data visualization (PowerBI, Python libraries)  
+- Introductory machine learning and modeling  
+- Applying data analysis to real-world domains such as sports analytics  
+
+### 📊 Current Projects
+- NFL Fantasy Football analytics dashboard using PowerBI, comparing 2024 predicted player stats with 2025 actual player stats
+- A personal Spotify listening analytics dashboard built using Python for data extraction and PowerBI for interactive visualization and trend analysis
+- Independent coursework through MIT OpenCourseWare to strengthen programming fundamentals  
+
+### 🌱 Currently Learning
+- Python for data analysis  
+- Introductory machine learning concepts  
+- Writing clean, reproducible, and well-documented code  
+
+### 🤝 Collaboration
+I’m interested in collaborating on beginner to intermediate data science projects that emphasize learning, experimentation, and clear analytical thinking.
+
+### 📫 Contact
+Email: bala.ramkumar270@gmail.com
