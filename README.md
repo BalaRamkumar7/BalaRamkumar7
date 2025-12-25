@@ -23,4 +23,4 @@ I’m a first-year Data Science and Engineering student at the University of Con
 I’m interested in collaborating on beginner to intermediate data science projects that emphasize learning, experimentation, and clear analytical thinking.
 
 ### 📫 Contact
-Email: bala.ramkumar270@gmail.com
+Email: balaramkumarjobs@gmail.com
