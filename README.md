@@ -10,7 +10,7 @@ I’m a first-year Data Science and Engineering student at the University of Con
 - Applying data analysis to real-world domains such as sports analytics  
 
 ### 📊 Current Projects
-- Resonant Music, a personal website project exploring algorithmic playlist organization and underground music discovery through API-driven data analysis and web development
+- Resonant Music, a personal website project exploring algorithmic playlist organization and underground music discovery through API-driven data analysis and web development: https://resonantmusic.vercel.app/
 - NFL Fantasy Football analytics dashboard using PowerBI, comparing trends and patterns in 2024 and 2025 players stats and using them to make 2026 predictions
 - A personal Spotify listening analytics dashboard built using Python for data extraction and PowerBI for interactive visualization and trend analysis
 
