@@ -1,4 +1,4 @@
-👋 Hi, I’m Bala Ramkumar!
+Hi, I’m Bala Ramkumar!
 
 I’m a first-year Data Science and Engineering student at the University of Connecticut with a strong interest in Statistics and Data Science. I enjoy working at the intersection of programming, data analysis, and real-world problem solving, and I enjoy exploring data-driven questions related to my personal interests, such as sports, music, and geography.
 
